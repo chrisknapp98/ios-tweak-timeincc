@@ -1,0 +1,9 @@
+Package: com.chrisknapp.timeincc
+Name: TimeInCC
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Change the sensor status label in the control center to the current time/date or to a text of your choice. 
+Maintainer: Christopher Knapp
+Author: Christopher Knapp
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.11)
